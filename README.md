@@ -1,4 +1,4 @@
-[a wallpaper](https://github.com/DeepjyotiDeb/DeepjyotiDeb/blob/main/peakpx.jpg)
+![a wallpaper](https://github.com/DeepjyotiDeb/DeepjyotiDeb/blob/main/wallpaperflare-cropped.jpg)
 
 ## Hi there 👋
 
